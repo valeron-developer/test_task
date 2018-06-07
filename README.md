@@ -26,6 +26,7 @@ Next, in the same file, write the path to the file with the styles: <stylesheet>
 So our title will change the font.
 
 3. In the HTML file at the very bottom, before the </ body> tag, specify the path to the files with the scripts:
+
 <script type = "text / javascript" src = "js / js.js"> </ script>
 In the created js folder, create the js.js file, open it and copy the following:
 $ (document) .ready (function () {
