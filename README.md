@@ -104,7 +104,7 @@ Open the styles.css file and add the code:
     background: #66840f;
 }
 
-Create an img folder and copy 4 pictures to it with a * .png image, the name of the pictures should be 1,2,3,4 respectively
+Create an img folder and copy 4 pictures to it with a * .png image, the name of the pictures should be 1,2,3,4 respectively         
 
 4. Then go to github.com, create an account (or go with an existing one), and save it there. Detailed instructions on how to use the service github is on their website:
 
